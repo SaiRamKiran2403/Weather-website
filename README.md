@@ -1,3 +1,5 @@
 # Weather-website
-An API to get the current weather data of a location. Built using NodeJs framework and deployed in Heroku. It uses data from mapbx.com and weatherstack.com.
-The API for Heroku deployment is [here](https://mssrk-weather-app.herokuapp.com/).
+
+An API for retrieving a location's current weather data. Developed with the NodeJS framework and hosted on Heroku. Data from mapbx.com and weatherstack.com is used.
+
+Heroku's deployment API can be found [here](https://mssrk-weather-app.herokuapp.com/).
